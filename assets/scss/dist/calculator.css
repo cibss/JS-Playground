@@ -42,6 +42,7 @@ body {
 .calc__actions .blank {
   opacity: 0;
 }
-.calc__actions .action {
+.calc__actions .action,
+.calc__actions .operator {
   background: #ffce00;
 }
